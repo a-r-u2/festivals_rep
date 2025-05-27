@@ -1,0 +1,164 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom, #c0db98d5, #7a999b);
+  color: #333;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+html, body {
+  height: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  background: linear-gradient(90deg, #0e3e6e, #07b072);
+  padding: 20px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.festival-card {
+  background: rgba(255, 255, 255, 0.85);
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  transition: all 0.4s ease;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  position: relative;
+  backdrop-filter: blur(6px);
+}
+
+.festival-card:hover {
+  transform: scale(1.04);
+  box-shadow: 0 18px 35px rgba(0, 0, 0, 0.25);
+  z-index: 2;
+}
+
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+  border-bottom: 4px solid #e3f2fd;
+  transition: transform 0.3s ease;
+}
+
+.festival-card:hover .card-img-top {
+  transform: scale(1.05);
+}
+
+.card-body {
+  flex-grow: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-title {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #003973;
+  margin-bottom: 0.5rem;
+}
+
+.card-text {
+  color: #555;
+  font-size: 0.95rem;
+  flex-grow: 1;
+  line-height: 1.5;
+}
+
+.btn.btn-primary {
+  margin-top: 1rem;
+  align-self: flex-start;
+  padding: 8px 16px;
+  border-radius: 8px;
+  background: linear-gradient(to right, #007bff, #00c6ff);
+  border: none;
+  color: white;
+  font-weight: 600;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.btn.btn-primary:hover {
+  background: linear-gradient(to right, #0056b3, #0099cc);
+  transform: scale(1.05);
+}
+
+/* Card Container Styling (optional enhancement for grid layout) */
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+  padding: 40px 20px;
+}
+.modal-content {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(12px);
+  animation: fadeInModal 0.5s ease;
+}
+
+.modal-header {
+  background: linear-gradient(90deg, #0e3e6e, #07b072);
+  color: white;
+  border-bottom: none;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding: 20px 30px;
+}
+
+.modal-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.btn-close {
+  filter: brightness(0) invert(1);
+}
+
+.modal-body {
+  padding: 30px;
+  color: #333;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+#festivalModalBody img {
+  max-width: 100%;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+#festivalModalBody p {
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+#festivalModalBody h6 {
+  font-weight: 600;
+  color: #00796b;
+  margin-top: 1rem;
+  border-left: 4px solid #80cbc4;
+  padding-left: 10px;
+}
+
+@keyframes fadeInModal {
+  from {
+    opacity: 0;
+    transform: translateY(-20px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}

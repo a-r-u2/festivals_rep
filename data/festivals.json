@@ -1,0 +1,343 @@
+[
+    
+    {
+        "id": "Ugadi",
+        "name": "Ugadi",
+        "state": "Andhra Pradesh",
+        "month": "March/April",
+        "type": "Seasonal",
+        "image": "ugadi.jpeg",
+        "description": [
+          "Marks the New Year in the Deccan region.",
+          "Celebrated with special dishes like 'Ugadi Pachadi'.",
+          "Rituals include prayers and family gatherings.",
+          "Symbolizes new beginnings and prosperity.",
+          "People decorate their homes with mango leaves."
+        ],
+        "story": "Ugadi is celebrated as the New Year festival in the Deccan region of India, marking the arrival of spring. The festival symbolizes the victory of good over evil, and it is observed with prayers, feasts, and cultural events.",
+        "uses": [
+          "Families prepare special dishes like Ugadi Pachadi.",
+          "Homes are decorated with mango leaves and flowers.",
+          "People perform prayers for prosperity and good health.",
+          "It is a time for renewal and fresh beginnings."
+        ],
+        "quiz": [
+          {
+            "question": "Which fruit is used in the Ugadi Pachadi?",
+            "options": ["Mango", "Banana", "Papaya", "Orange"],
+            "answer": "Mango"
+          },
+          {
+            "question": "What does Ugadi signify?",
+            "options": ["New Year", "Victory of Good over Evil", "Harvest Season", "Monsoon Festival"],
+            "answer": "New Year"
+          }
+        ]
+      },
+    {
+      "id": "Pongal",
+      "name": "Pongal",
+      "state": "Tamil Nadu",
+      "month": "January",
+      "type": "Harvest",
+      "image": "pongal.jpg",
+      "detailsPage": "pongal.html",
+      "description": [
+        "Celebrated in January as a tribute to the Sun God.",
+        "A major harvest festival marking abundance and prosperity.",
+        "People cook sweet rice called 'Pongal' in clay pots.",
+        "Homes are decorated with colorful 'Kolams'.",
+        "Cattle are honored on Mattu Pongal, part of the 4-day celebration."
+      ]
+    },
+    {
+      "id": "Ganesh Chaturthi",
+      "name": "Ganesh Chaturthi",
+      "state": "Maharashtra",
+      "month": "August",
+      "type": "Religious",
+      "image": "ganeshchaturdhi.webp",
+      "detailsPage": "ganesh.html",
+      "description": [
+        "Celebrates the birth of Lord Ganesha, the remover of obstacles.",
+        "Clay idols are installed in homes and public places.",
+        "Devotional songs and dances create a festive vibe.",
+        "Idols are immersed in water on the last day (Visarjan).",
+        "Encourages eco-friendly practices and unity in community."
+      ]
+    },
+    {
+      "id": "Bihu",
+      "name": "Bihu",
+      "state": "Assam",
+      "month": "April",
+      "type": "Seasonal",
+      "image": "bihu.webp",
+      "detailsPage": "bihu.html",
+      "description": [
+        "Three Bihu festivals mark different agricultural phases.",
+        "Rongali Bihu (April) is the most vibrant and cultural.",
+        "Traditional dances, songs, and feasts bring communities together.",
+        "Celebrates the farmer\u2019s spirit and Assamese New Year.",
+        "Focus on joy, harvest, and seasonal change."
+      ]
+    },
+    {
+      "id": "Christmas",
+      "name": "Christmas",
+      "state": "All",
+      "month": "December",
+      "type": "Religious",
+      "image": "christmas.webp",
+      "detailsPage": "christmas.html",
+      "description": [
+        "Celebrates the birth of Jesus Christ.",
+        "Churches hold midnight masses and prayers.",
+        "People decorate Christmas trees and exchange gifts.",
+        "Special dishes and sweets are prepared.",
+        "Known for joy, peace, and community gatherings."
+      ]
+    },
+    {
+      "id": "Easter",
+      "name": "Easter",
+      "state": "All",
+      "month": "March",
+      "type": "Religious",
+      "image": "easter.jpg",
+      "detailsPage": "easter.html",
+      "description": [
+        "Celebrates the resurrection of Jesus Christ.",
+        "Marked with sunrise services and church prayers.",
+        "Families gather for festive meals and celebrations.",
+        "Easter eggs symbolize new life and rebirth.",
+        "Joyous occasion in Christian communities across India."
+      ]
+    },
+    {
+      "id": "Good Friday",
+      "name": "Good Friday",
+      "state": "All",
+      "month": "March",
+      "type": "Religious",
+      "image": "goodfriday.jpg",
+      "detailsPage": "goodfriday.html",
+      "description": [
+        "Commemorates the crucifixion of Jesus Christ.",
+        "Observed with solemn prayers and fasting.",
+        "Churches conduct processions and special services.",
+        "A day of mourning in the Christian faith.",
+        "Precedes Easter Sunday and is part of Holy Week."
+      ]
+    },
+    {
+      "id": "Ramzan(Ramadan)",
+      "name": "Ramzan(Ramadan)",
+      "state": "All",
+      "month": "April",
+      "type": "Religious",
+      "image": "ramzan.jpeg",
+      "detailsPage": "ramzan.html",
+      "description": [
+        "Holy month of fasting for Muslims.",
+        "Devotees fast from dawn to dusk.",
+        "Evenings are marked with Iftar meals and prayers.",
+        "Encourages spiritual reflection and self-discipline.",
+        "Ends with Eid-ul-Fitr celebration."
+      ]
+    },
+    {
+      "id": "Bakrid",
+      "name": "Bakrid",
+      "state": "All",
+      "month": "June",
+      "type": "Religious",
+      "image": "bakrid.jpg",
+      "detailsPage": "bakrid.html",
+      "description": [
+        "Also known as Eid al-Adha – Festival of Sacrifice.",
+        "Honors the willingness of Ibrahim to sacrifice his son.",
+        "Animals are sacrificed and shared among family, friends, and the needy.",
+        "Includes special prayers and gatherings.",
+        "Celebrated with delicious traditional dishes."
+      ]
+    },
+    {
+      "id": "Durga Puja",
+      "name": "Durga Puja",
+      "state": "West Bengal",
+      "month": "October",
+      "type": "Religious",
+      "image": "DurgaPuja.jpg",
+      "detailsPage": "DurgaPuja.html",
+      "description": [
+        "Celebrates Goddess Durga's victory over Mahishasura.",
+        "Giant artistic pandals house beautiful idols of the goddess.",
+        "Cultural shows, food stalls, and traditional music dominate the streets.",
+        "It's the biggest and most celebrated event in West Bengal.",
+        "Strong focus on family, community, and devotion."
+      ]
+    },
+    {
+      "id": "Bathukamma",
+      "name": "Bathukamma",
+      "state": "Telangana",
+      "month": "October",
+      "type": "Cultural",
+      "image": "bathukamma.jpeg",
+      "detailsPage": "bathukamma.html",
+      "description": [
+        "A floral festival celebrated by women of Telangana.",
+        "Women make colorful flower stacks called Bathukamma.",
+        "They gather in circles, sing folk songs, and dance.",
+        "Symbolizes womanhood, prosperity, and nature worship.",
+        "Held before Dussehra, promoting health, family bonds, and unity."        
+      ]
+    },
+    {
+      "id": "Onam",
+      "name": "Onam",
+      "state": "Kerala",
+      "month": "August",
+      "type": "Harvest",
+      "image": "onam.jpg",
+      "detailsPage": "onam.html",
+      "description": [
+        "Celebrates the homecoming of King Mahabali.",
+        "Features vibrant flower rangolis and boat races.",
+        "Onam Sadya (feast) is a major highlight.",
+        "People wear traditional clothes and perform dances.",
+        "Symbolizes prosperity, unity, and joy."
+      ]
+    },
+    {
+      "id": "Lohri",
+      "name": "Lohri",
+      "state": "Punjab",
+      "month": "January",
+      "type": "Seasonal",
+      "image": "lohri.jpg",
+      "detailsPage": "lohri.html",
+      "description": [
+        "Harvest festival marking end of winter.",
+        "Bonfires, singing, and traditional dances.",
+        "Offerings include sesame seeds, jaggery, and popcorn.",
+        "Symbolizes fertility and prosperity.",
+        "Community celebrations strengthen bonds."
+      ]
+    },
+    {
+      "id": "Navratri",
+      "name": "Navratri",
+      "state": "Gujarat",
+      "month": "October",
+      "type": "Religious",
+      "image": "navratri.webp",
+      "detailsPage": "navratri.html",
+      "description": [
+        "Nine-night festival dedicated to Goddess Durga.",
+        "Famous for Garba and Dandiya Raas dances.",
+        "Each day signifies a different avatar of the goddess.",
+        "Devotees fast and perform rituals.",
+        "Culminates with Vijayadashami or Dussehra."
+      ]
+    },
+    {
+      "id": "Makar Sankranti",
+      "name": "Makar Sankranti",
+      "state": "Andhra Pradesh",
+      "month": "January",
+      "type": "Harvest",
+      "image": "makarsankranti.jpeg",
+      "detailsPage": "makarsankranti.html",
+      "description": [
+        "Marks the sun’s entry into Capricorn (Makara Rashi).",
+        "Celebrated with kite flying and traditional foods.",
+        "Bhogi, Sankranti, and Kanuma are observed over 3 days.",
+        "Bonfires are lit on Bhogi to discard old things.",
+        "Worship of cattle and nature is part of the ritual."
+      ]
+    },
+    {
+      "id": "Gudi Padwa",
+      "name": "Gudi Padwa",
+      "state": "Maharashtra",
+      "month": "March",
+      "type": "Cultural",
+      "image": "gudipadwa.jpg",
+      "detailsPage": "gudipadwa.html",
+      "description": [
+        "Celebrates the Maharashtrian New Year.",
+        "Houses are decorated with Gudi (flag-pole with silk and neem leaves).",
+        "Special dishes like Puran Poli are prepared.",
+        "Signifies victory and prosperity.",
+        "Traditional processions and cultural programs held."
+      ]
+    },
+      {
+        "id": "Vishu",
+        "name": "Vishu",
+        "state": "Kerala",
+        "month": "April",
+        "type": "Religious",
+        "image": "vishu.jpg",
+        "description": [
+          "Malayalam New Year celebrated in Kerala.",
+          "Vishukkani (auspicious sight) is the main ritual.",
+          "Firecrackers and feasts mark the celebration.",
+          "Elders give money gifts (Vishukkaineetam) to younger ones.",
+          "Symbolizes hope, prosperity, and good fortune."
+        ],
+        "story": [
+          "Vishu is a major Hindu festival celebrated mostly in Kerala and parts of Tamil Nadu. It marks the Malayalam New Year and the beginning of a fresh start. People welcome the day with joy, traditional rituals and prayers.",
+          "<br><sh>Vishu 2025 – Date and Time:</sh><br> In 2025, Vishu will be celebrated on Monday, April 14. Vishu Kani should be seen at 03:30 AM, considered lucky for the year.",
+          "<br><sh>What is Vishu?</sh><br> Vishu means 'equal' in Sanskrit, aligning with the spring equinox. It marks Sun's movement into Aries (Mesha Rashi), a symbol of new beginnings.",
+          "<br><sh>Mythological Story Behind Vishu:</sh><br> Lord Krishna defeated the demon Narakasura on this day—signifying the triumph of good over evil.",
+          "Vishu Kani is arranged with items like:<br>Fruits, Golden flowers (Konna), Coins, Mirror, Holy book, and a lamp in a vessel called Uruli before Vishnu/Krishna idols.",
+          "<br><sh>How Vishu is Celebrated?</sh><br> Families wake up early, see Vishukkani, wear new clothes (Kaineettam), get/give money, burst crackers, and prepare a Sadya feast."
+        ],
+        "uses": [
+          "Special feast called Vishu Sadya is prepared.",
+          "Firecrackers are burst to celebrate the occasion.",
+          "Families gather to witness the Vishukkani.",
+          "Elders give money gifts (Vishukkaineetam)."
+        ],
+        "quiz": [
+          {
+            "question": "What is the main ritual of Vishu?",
+            "options": ["Vishukkani", "Pongal", "Garba", "Navratri"],
+            "answer": "Vishukkani"
+          },
+          {
+            "question": "What do elders give to younger ones during Vishu?",
+            "options": ["Gifts", "Money (Vishukkaineetam)", "Flowers", "Fruits"],
+            "answer": "Money (Vishukkaineetam)"
+          },
+          {
+            "question": "What does Vishu signify?",
+            "options": ["New Year", "Harvest", "Victory", "Spring Equinox"],
+            "answer": "New Year"
+          },
+          {
+            "question": "Which flower is associated with Vishu?",
+            "options": ["Lotus", "Konna (Golden Shower)", "Rose", "Marigold"],
+            "answer": "Konna (Golden Shower)"
+          },
+          {
+            "question": "What is the significance of Vishukkani?",
+            "options": ["Auspicious sight", "New clothes", "Firecrackers", "Feast"],
+            "answer": "Auspicious sight"
+          },
+          {
+            "question": "What is the meaning of 'Vishu'?",
+            "options": ["Equal", "New", "Spring", "Harvest"],
+            "answer": "Equal"
+          },
+          {
+            "question": "Which demon was defeated on Vishu?",
+            "options": ["Narakasura", "Mahishasura", "Ravana", "Kumbhakarna"],
+            "answer": "Narakasura"
+          }
+        ]
+      }
+  ]
